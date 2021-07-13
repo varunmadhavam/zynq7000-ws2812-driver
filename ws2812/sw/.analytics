@@ -1,0 +1,33 @@
+timestamp=[2021-06-17 11:07:40], mode=WORKBENCH_START, duration=0:00:06.424, duration_ms=6424, data={}
+timestamp=[2021-06-17 11:07:41], mode=WORKBENCH_UI_INIT, duration=0:00:00.523, duration_ms=523, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2021-06-17 11:07:45], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:04.833, duration_ms=4833, data={}
+timestamp=[2021-06-17 11:08:28], mode=PLATFORM_CREATION, duration=0:00:16.606, duration_ms=16606, data={platform_source=dsa, os=standalone, processor=ps7_cortexa9, platform=null}
+timestamp=[2021-06-17 11:09:11], mode=APP_CREATION, duration=0:00:08.855, duration_ms=8855, data={name=ws2812_App, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=ws2812_Platform, application_type=application}
+timestamp=[2021-06-17 11:10:03], mode=PLATFORM_GENERATION, duration=0:00:15.650, duration_ms=15650, data={name=ws2812_Platform}
+timestamp=[2021-06-17 11:10:06], mode=BUILD, duration=0:00:01.103, duration_ms=1103, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:10:18], mode=BUILD, duration=0:00:09.212, duration_ms=9212, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:14:33], mode=BUILD, duration=0:00:00.729, duration_ms=729, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:14:42], mode=BUILD, duration=0:00:07.742, duration_ms=7742, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:17:33], mode=BUILD, duration=0:00:00.677, duration_ms=677, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:17:42], mode=BUILD, duration=0:00:07.745, duration_ms=7745, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:18:30], mode=BUILD, duration=0:00:00.676, duration_ms=676, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:18:39], mode=BUILD, duration=0:00:07.692, duration_ms=7692, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:19:22], mode=BUILD, duration=0:00:00.680, duration_ms=680, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:20:17], mode=BUILD, duration=0:00:00.680, duration_ms=680, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:20:26], mode=BUILD, duration=0:00:07.844, duration_ms=7844, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:21:17], mode=BUILD, duration=0:00:00.680, duration_ms=680, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:21:26], mode=BUILD, duration=0:00:07.644, duration_ms=7644, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:22:42], mode=BUILD, duration=0:00:00.676, duration_ms=676, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:36:49], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:36:58], mode=BUILD, duration=0:00:08.192, duration_ms=8192, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:38:10], mode=BUILD, duration=0:00:00.682, duration_ms=682, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:38:19], mode=BUILD, duration=0:00:07.896, duration_ms=7896, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:38:58], mode=BUILD, duration=0:00:00.727, duration_ms=727, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:39:07], mode=BUILD, duration=0:00:07.940, duration_ms=7940, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:53:45], mode=BUILD, duration=0:00:00.931, duration_ms=931, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-17 11:53:55], mode=BUILD, duration=0:00:08.492, duration_ms=8492, data={name=ws2812_System, configuration=Debug, clean_build=false}
+timestamp=[2021-06-28 18:26:43], mode=WORKBENCH_START, duration=0:00:13.496, duration_ms=13496, data={}
+timestamp=[2021-06-28 18:26:44], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.103, duration_ms=103, data={}
+timestamp=[2021-06-28 18:26:45], mode=WORKBENCH_UI_INIT, duration=0:00:01.542, duration_ms=1542, data={editors_count=1, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,ws2812_App,ws2812_Platform,ws2812_System}
+timestamp=[2021-06-28 18:27:18], mode=BUILD, duration=0:00:01.053, duration_ms=1053, data={name=ws2812_App, configuration=Debug, clean_build=false}
+timestamp=[2021-06-28 18:27:32], mode=BUILD, duration=0:00:12.180, duration_ms=12180, data={name=ws2812_System, configuration=Debug, clean_build=false}

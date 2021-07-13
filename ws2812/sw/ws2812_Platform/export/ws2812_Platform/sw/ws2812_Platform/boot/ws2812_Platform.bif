@@ -1,0 +1,7 @@
+/*ws2812_Platform*/
+the_ROM_image:
+{
+  [bootloader]<ws2812_Platform/boot/fsbl.elf>
+   <bitstream> 
+  <elf,ps7_cortexa9_0>
+}

@@ -1,0 +1,25 @@
+18:27:17 **** Incremental Build of configuration Debug for project ws2812_App ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+ 
+make --no-print-directory main-build
+Building file: ../src/main.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I/home/varun/coding/fpga/xylinx/zynq/ws2812/sw/ws2812_Platform/export/ws2812_Platform/sw/ws2812_Platform/standalone_domain/bspinclude/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: ws2812_App.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L/home/varun/coding/fpga/xylinx/zynq/ws2812/sw/ws2812_Platform/export/ws2812_Platform/sw/ws2812_Platform/standalone_domain/bsplib/lib -o "ws2812_App.elf"  ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: ws2812_App.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size ws2812_App.elf  |tee "ws2812_App.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  20116	   1144	  22616	  43876	   ab64	ws2812_App.elf
+Finished building: ws2812_App.elf.size
+ 
+
+18:27:18 Build Finished (took 1s.0ms)
+

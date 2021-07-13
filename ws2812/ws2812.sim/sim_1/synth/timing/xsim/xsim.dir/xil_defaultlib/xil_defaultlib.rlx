@@ -1,0 +1,6 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/varun/coding/fpga/xylinx/zynq/ws2812/ws2812.sim/sim_1/synth/timing/xsim/tb_time_synth.v,1623750374,verilog,,/home/varun/coding/fpga/xylinx/zynq/ws2812/ws2812.srcs/sim_1/new/tb.v,,clk_wiz_0;glbl;ws2812,,,../../../../../ws2812.gen/sources_1/ip/clk_wiz_0,,,,,
+/home/varun/coding/fpga/xylinx/zynq/ws2812/ws2812.srcs/sim_1/new/tb.v,1623750323,verilog,,,,tb,,,../../../../../ws2812.gen/sources_1/ip/clk_wiz_0,,,,,

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="sdx.custom.platform.repository.locations" value="/home/varun/coding/fpga/xylinx/zynq/ws2812/sw/ws2812_Platform/export/ws2812_Platform"/>
+</section>

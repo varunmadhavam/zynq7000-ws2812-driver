@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ws2812_App" location="/home/varun/coding/fpga/xylinx/zynq/ws2812/sw/ws2812_App" platform="/home/varun/coding/fpga/xylinx/zynq/ws2812/sw/ws2812_Platform/export/ws2812_Platform/ws2812_Platform.xpfm" platformUID="xilinx:pynq-z1::0.0(custom)" systemProject="ws2812_System" sysConfig="ws2812_Platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="c5103042f17d5409e2b2637f31d0bc1d">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1434827913">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.466253168" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

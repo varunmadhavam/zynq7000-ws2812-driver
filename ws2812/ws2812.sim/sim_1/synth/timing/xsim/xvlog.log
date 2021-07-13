@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/varun/coding/fpga/xylinx/zynq/ws2812/ws2812.sim/sim_1/synth/timing/xsim/tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-311] analyzing module ws2812
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/varun/coding/fpga/xylinx/zynq/ws2812/ws2812.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [/home/varun/coding/fpga/xylinx/zynq/ws2812/ws2812.srcs/sim_1/new/tb.v:17]
